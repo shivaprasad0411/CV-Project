@@ -13,3 +13,5 @@ Sound recovery from Video
 - You need to upload it to drive and rename the `video_dir` and `audio_dir` in the `CV-Project.ipynb` file to your original directories of the files.
 - After mounting the drive and uploading the files you can directly run the code in colab to view the results.
 - You can also here to the input and extracted audio files uploaded in this repository.
+- The file `Chips2-2200Hz-Mary_MIDI-input.wav` contains the input audio.
+- The file `test.wav` contains the extracted audio.
